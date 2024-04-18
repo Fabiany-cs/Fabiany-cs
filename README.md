@@ -7,8 +7,19 @@
 - <b>Provision Active Diretory Users with PowerShell</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>📚 Certifications </h2>
-  <h3>-CompTIA</h3>
-    <b>-CySA+</b>
-    <b>-Security+</b>
-    <b>-Network+</b>
+## 📚 Certifications 
+
+### CompTIA
+- **CySA+ (CS0-003)**
+- **Security+ (SY0-601)**
+- **Network+ (N10-008)**
+- **A+ (220-1101 / 220-1102)**
+- **Project+ (PK0-004)**
+
+### ISC(2)
+- **Systems Security Certified Practitioner (SSCP)**
+
+### Other Certifications
+- **ITILv2 Foundation**
+- **Google IT Support Professional**
+- **Google Cybersecurity Professional**
