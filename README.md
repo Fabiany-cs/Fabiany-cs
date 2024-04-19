@@ -7,7 +7,7 @@
 <h2>💻 TryHackMe Labs</h2>
 
 - <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linxus Fundamentals</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">OpenVPN / SSH</a></b>
+- <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
 
 ## 📚 Certifications 
 
