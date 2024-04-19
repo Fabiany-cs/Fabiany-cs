@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure VM Honeypot Integrated with Azure Sentinel (SIEM) </b>
+- <b><a href="https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md">Azure VM Honeypot Integrated with Azure Sentinel (SIEM)</a></b>
   - 
 - <b>Provision Active Diretory Users with PowerShell</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
