@@ -1,8 +1,12 @@
 <h1>Hi, I'm Fabiany! <br/><a href="https://www.linkedin.com/in/fabiany-morales-cs/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b><a href="https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md">Azure VM Honeypot Integrated with Azure Sentinel (SIEM)</a></b>
+
+<h2>💻 TryHackMe Labs</h2>
+
+- <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linxus Fundamentals</a></b>
 
 ## 📚 Certifications 
 
