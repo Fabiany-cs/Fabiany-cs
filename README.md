@@ -25,3 +25,7 @@
 - **ITILv2 Foundation**
 - **Google IT Support Professional**
 - **Google Cybersecurity Professional**
+
+### Coming Soon Certifications
+- **CompTIA Pentest+ (PT0-002)**
+- **Microsoft Azure Fundamentals(AZ-900)**
