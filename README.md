@@ -9,6 +9,8 @@
 - <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linxus Fundamentals</a></b>
 - <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
 
+<h2>🐍 Python Automation</h2>
+
 ## 📚 Certifications 
 
 ### CompTIA
