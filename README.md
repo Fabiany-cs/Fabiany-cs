@@ -10,6 +10,7 @@
 - <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
 
 <h2>🐍 Python Automation</h2>
+- <b><a href="https://github.com/Fabiany-cs/Random-Password-Generator">Random Password Generator</a></b>
 
 ## 📚 Certifications 
 
