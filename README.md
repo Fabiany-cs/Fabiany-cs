@@ -18,20 +18,20 @@
 ## 📚 Certifications 
 
 ### CompTIA
-- **CySA+ (CS0-003)**
-- **Security+ (SY0-601)**
-- **Network+ (N10-008)**
-- **A+ (220-1101 / 220-1102)**
-- **Project+ (PK0-004)**
+- <b><a href="https://www.comptia.org/certifications/cybersecurity-analyst">CySA+ (CS0-003)</a></b>
+- <b><a href="https://www.comptia.org/certifications/security">Security+ (SY0-601)</a></b>
+- <b><a href="https://www.comptia.org/certifications/network">Network+ (N10-008)</a></b>
+- <b><a href="https://www.comptia.org/certifications/a">A+ (220-1101 / 220-1102)</a></b>
+- <b><a href="https://www.comptia.org/certifications/project">Project+ (PK0-004)</a></b>
 
 ### ISC(2)
-- **Systems Security Certified Practitioner (SSCP)**
+- <b><a href="https://www.isc2.org/certifications/sscp">Systems Security Certified Practitioner (SSCP)</a></b>
 
 ### Other Certifications
-- **ITILv2 Foundation**
-- **Google IT Support Professional**
-- **Google Cybersecurity Professional**
+-  <b><a href="https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/">ITILv2 Foundation</a></b>
+-  <b><a href="https://www.coursera.org/professional-certificates/google-it-support">Google IT Support Professional</a></b>
+-  <b><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional</a></b>
 
 ### Coming Soon Certifications
-- **CompTIA Pentest+ (PT0-002)**
-- **Microsoft Azure Fundamentals(AZ-900)**
+-  <b><a href="https://www.comptia.org/certifications/pentest">CompTIA Pentest+ (PT0-002)</a></b>
+-  <b><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Microsoft Azure Fundamentals(AZ-900)</a></b>
