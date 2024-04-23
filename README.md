@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b><a href="https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md">Azure VM Honeypot Integrated with Azure Sentinel (SIEM)</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Wazuh">Vulnerability Detection with Wazuh</a></b>
+- <b><a href="https://github.com/Fabiany-cs/Wazuh">EDR Monitoring with Wazuh (XDR)</a></b>
 
 <h2>💻 TryHackMe Labs</h2>
 
