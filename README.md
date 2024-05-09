@@ -4,6 +4,7 @@
 
 - <b><a href="https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md">Azure VM Honeypot Integrated with Azure Sentinel (SIEM)</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Wazuh">EDR Monitoring with Wazuh (XDR)</a></b>
+- <b><a href="https://github.com/Fabiany-cs/Active-Directory-DC-Setup">Active Directory DC Setup</a></b>
 
 <h2>💻 TryHackMe Labs</h2>
 
