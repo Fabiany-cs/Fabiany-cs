@@ -35,4 +35,3 @@
 
 ### Coming Soon Certifications
 -  <b><a href="https://www.comptia.org/certifications/pentest">CompTIA Pentest+ (PT0-002)</a></b>
--  <b><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Microsoft Azure Fundamentals(AZ-900)</a></b>
