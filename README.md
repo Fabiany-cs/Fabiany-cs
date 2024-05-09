@@ -16,6 +16,10 @@
 - <b><a href="https://github.com/Fabiany-cs/Random-Password-Generator">Random Password Generator</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Harvard-CS50P">Harvard CS50P</a></b>
 
+<h2>💲 PowerShell</h2>
+
+- <b><a href="https://github.com/Fabiany-cs/Active-Directory-DC-Deployment/blob/main/1_CREATE_USERS.ps1">Creating Users in Active Directory</a></b>
+
 ## 📚 Certifications 
 
 ### CompTIA
