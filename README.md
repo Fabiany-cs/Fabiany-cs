@@ -8,7 +8,7 @@
 
 <h2>💻 TryHackMe Labs</h2>
 
-- <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linxus Fundamentals</a></b>
+- <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linux Fundamentals</a></b>
 - <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
 
 <h2>🐍 Python</h2>
@@ -26,6 +26,7 @@
 - <b><a href="https://www.comptia.org/certifications/cybersecurity-analyst">CySA+ (CS0-003)</a></b>
 - <b><a href="https://www.comptia.org/certifications/security">Security+ (SY0-601)</a></b>
 - <b><a href="https://www.comptia.org/certifications/network">Network+ (N10-008)</a></b>
+-  <b><a href="https://www.comptia.org/certifications/pentest">CompTIA Pentest+ (PT0-002)</a></b>
 - <b><a href="https://www.comptia.org/certifications/a">A+ (220-1101 / 220-1102)</a></b>
 - <b><a href="https://www.comptia.org/certifications/project">Project+ (PK0-004)</a></b>
 
@@ -38,4 +39,4 @@
 -  <b><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional</a></b>
 
 ### Coming Soon Certifications
--  <b><a href="https://www.comptia.org/certifications/pentest">CompTIA Pentest+ (PT0-002)</a></b>
+-  <b><a href="[https://www.comptia.org/certifications/pentest](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=tile&tile=getstarted)">AWS Solutions Architect</a></b>
