@@ -23,10 +23,10 @@
 ## 📚 Certifications 
 
 ### CompTIA
-- <b><a href="https://www.comptia.org/certifications/cybersecurity-analyst">CySA+ (CS0-003)</a></b>
 - <b><a href="https://www.comptia.org/certifications/security">Security+ (SY0-601)</a></b>
+- <b><a href="https://www.comptia.org/certifications/cybersecurity-analyst">CySA+ (CS0-003)</a></b>
 - <b><a href="https://www.comptia.org/certifications/network">Network+ (N10-008)</a></b>
--  <b><a href="https://www.comptia.org/certifications/pentest">CompTIA Pentest+ (PT0-002)</a></b>
+-  <b><a href="https://www.comptia.org/certifications/pentest">Pentest+ (PT0-002)</a></b>
 - <b><a href="https://www.comptia.org/certifications/a">A+ (220-1101 / 220-1102)</a></b>
 - <b><a href="https://www.comptia.org/certifications/project">Project+ (PK0-004)</a></b>
 
