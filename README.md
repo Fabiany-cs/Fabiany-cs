@@ -6,7 +6,7 @@
 - <b><a href="https://github.com/Fabiany-cs/Wazuh">EDR Monitoring with Wazuh (XDR)</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Active-Directory-DC-Deployment">Active Directory DC Deployment</a></b>
 
-<h2>💻 TryHackMe Labs</h2>
+<h2>💻 TryHackMe Rooms</h2>
 
 - <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linux Fundamentals</a></b>
 - <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
