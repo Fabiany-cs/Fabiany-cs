@@ -14,6 +14,7 @@
 <h2>🐍 Python</h2>
 
 - <b><a href="https://github.com/Fabiany-cs/Port-Scanner">Nmap Port Scanner</a></b>
+- <b><a href="https://github.com/Fabiany-cs/Password-Manager">Password Manager</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Random-Password-Generator">Random Password Generator</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Harvard-CS50P">Harvard CS50P</a></b>
 
