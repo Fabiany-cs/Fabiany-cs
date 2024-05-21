@@ -35,7 +35,7 @@
 ### ISC(2)
 - <b><a href="https://www.isc2.org/certifications/sscp">Systems Security Certified Practitioner (SSCP)</a></b>
 
-### Other Certifications
+### Other
 -  <b><a href="https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/">ITILv4 Foundation</a></b>
 -  <b><a href="https://www.coursera.org/professional-certificates/google-it-support">Google IT Support Professional</a></b>
 -  <b><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional</a></b>
