@@ -7,6 +7,7 @@
 - <b><a href="https://github.com/Fabiany-cs/Active-Directory-DC-Deployment">Active Directory DC Deployment</a></b>
 
 <h2>💻 TryHackMe Rooms</h2>
+<img width="102" alt="Screenshot 2024-05-22 at 3 20 51 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/11ad928d-1023-4d8a-bd4b-8ed7912fc885">
 
 - <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linux Fundamentals</a></b>
 - <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
