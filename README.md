@@ -12,6 +12,8 @@
 - <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Hydra">Hydra Network Cracker</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Aircrack-ng-Suite">Aircrack-ng Suite</a></b>
+- <b><a href="https://github.com/Fabiany-cs/SQLMAP">SQLMap</a></b>
+
 
 <h2>🐍 Python</h2>
 
