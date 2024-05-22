@@ -15,6 +15,7 @@
 - <b><a href="https://github.com/Fabiany-cs/Aircrack-ng-Suite">Aircrack-ng Suite</a></b>
 - <b><a href="https://github.com/Fabiany-cs/SQLMAP">SQLMap</a></b>
 - <b><a href="https://github.com/Fabiany-cs/Splunk-Exploring-SPL">Splunk: Exploring SPL</a></b>
+- <b><a href="https://github.com/Fabiany-cs/Splunk-CTF-PS-Eclipse">Splunk: CTF / PS Eclipse</a></b>
 
 <h2>🐍 Python</h2>
 
