@@ -11,7 +11,7 @@
 
 ## 🛠️ About Me
 
-Infrastructure & Security Engineer with 3+ years of hands-on experience at a managed services provider — designing, deploying, and securing network environments for 20+ SMB clients. Daily work spans pfSense firewall engineering, VLAN segmentation, IPSec VPNs, Azure/Entra ID administration, Intune endpoint management, SentinelOne EDR, and ThreatLocker application control.
+Infrastructure & Security Engineer with 3+ years of hands-on experience at a managed services provider — designing, deploying, and securing network environments for 50+ SMB clients. Daily work spans pfSense firewall engineering, VLAN segmentation, IPSec VPNs, Azure/Entra ID administration, Intune endpoint management, SentinelOne EDR, and ThreatLocker application control.
 
 Currently building toward cloud security roles with a focus on Microsoft Azure (AZ-104 → AZ-500).
 
