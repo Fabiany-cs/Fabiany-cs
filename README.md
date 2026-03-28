@@ -1,47 +1,71 @@
-<h1>Hi, I'm Fabiany! <br/><a href="https://www.linkedin.com/in/fabiany-morales-cs/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Fabiany Morales 👋</h1>
+<h3><a href="https://www.linkedin.com/in/fabiany-morales-cs/">Infrastructure & Cloud Security Engineer</a> | Azure · M365 · Endpoint Security · Networking</h3>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<p>
+  Based in Florida · B.S. Cybersecurity (WGU) · Open to remote cloud/security roles<br/>
+  <a href="https://www.fabianymorales.com">Portfolio</a> · 
+  <a href="https://www.linkedin.com/in/fabiany-morales-cs/">LinkedIn</a>
+</p>
 
-- <b><a href="https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md">Azure VM Honeypot Integrated with Azure Sentinel (SIEM)</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Wazuh">EDR Monitoring with Wazuh (XDR)</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Active-Directory-DC-Deployment">Active Directory DC Deployment</a></b>
+---
 
-<h2>💻 TryHackMe Rooms</h2>
-<img width="102" alt="Screenshot 2024-05-22 at 3 20 51 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/11ad928d-1023-4d8a-bd4b-8ed7912fc885">
+## 🛠️ About Me
 
-- <b><a href="https://github.com/Fabiany-cs/Linux-Fundamentals">Linux Fundamentals</a></b>
-- <b><a href="https://github.com/Fabiany-cs/OpenVPN-SSH">OpenVPN / SSH</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Hydra">Hydra Network Cracker</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Aircrack-ng-Suite">Aircrack-ng Suite</a></b>
-- <b><a href="https://github.com/Fabiany-cs/SQLMAP">SQLMap</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Splunk-Exploring-SPL">Splunk: Exploring SPL</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Splunk-CTF-PS-Eclipse">Splunk: CTF / PS Eclipse</a></b>
+Infrastructure & Security Engineer with 3+ years of hands-on experience at a managed services provider — designing, deploying, and securing network environments for 20+ SMB clients. Daily work spans pfSense firewall engineering, VLAN segmentation, IPSec VPNs, Azure/Entra ID administration, Intune endpoint management, SentinelOne EDR, and ThreatLocker application control.
 
-<h2>🐍 Python</h2>
+Currently building toward cloud security roles with a focus on Microsoft Azure (AZ-104 → AZ-500).
 
-- <b><a href="https://github.com/Fabiany-cs/Port-Scanner">Nmap Port Scanner</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Password-Manager">Password Manager</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Random-Password-Generator">Random Password Generator</a></b>
-- <b><a href="https://github.com/Fabiany-cs/Harvard-CS50P">Harvard CS50P</a></b>
+---
 
-<h2>💲 PowerShell</h2>
+## ☁️ Cloud & Infrastructure Projects
 
-- <b><a href="https://github.com/Fabiany-cs/Active-Directory-DC-Deployment/blob/main/1_CREATE_USERS.ps1">Creating Users in Active Directory</a></b>
+- **[Azure VM Honeypot + Azure Sentinel SIEM](https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md)** — Deployed a deliberately exposed Azure VM to capture real-world attack data, integrated with Azure Sentinel for log ingestion, alerting, and threat visualization
+- **[EDR Monitoring with Wazuh (XDR)](https://github.com/Fabiany-cs/Wazuh)** — Self-hosted Wazuh deployment for endpoint detection, HIDS alerting, and security event correlation
+- **[Active Directory DC Deployment](https://github.com/Fabiany-cs/Active-Directory-DC-Deployment)** — Full AD domain deployment with automated user provisioning via PowerShell
 
-## 📚 Certifications 
+---
 
-### CompTIA
-- <b><a href="https://www.comptia.org/certifications/security">Security+ (SY0-601)</a></b>
-- <b><a href="https://www.comptia.org/certifications/cybersecurity-analyst">CySA+ (CS0-003)</a></b>
-- <b><a href="https://www.comptia.org/certifications/network">Network+ (N10-008)</a></b>
--  <b><a href="https://www.comptia.org/certifications/pentest">Pentest+ (PT0-002)</a></b>
-- <b><a href="https://www.comptia.org/certifications/a">A+ (220-1101 / 220-1102)</a></b>
-- <b><a href="https://www.comptia.org/certifications/project">Project+ (PK0-004)</a></b>
+## 💻 Home Lab
 
-### ISC(2)
-- <b><a href="https://www.isc2.org/certifications/sscp">Systems Security Certified Practitioner (SSCP)</a></b>
+Self-hosted infrastructure running on Proxmox with multiple VMs and containerized services:
 
-### Other
--  <b><a href="https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/">ITILv4 Foundation</a></b>
--  <b><a href="https://www.coursera.org/professional-certificates/google-it-support">Google IT Support Professional</a></b>
--  <b><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional</a></b>
+- **Hypervisor:** Proxmox VE — production + lab workloads
+- **Storage:** TrueNAS with ZFS pools, snapshots, and PCI passthrough SSDs
+- **Network:** pfSense firewall, UniFi switching/wireless, VLAN segmentation, inter-VLAN routing, Tailscale mesh VPN
+- **Security:** Wazuh (HIDS/EDR), Azure Sentinel (SIEM), Windows Server domain environment for SOC practice
+- **Services:** Pi-hole (DNS filtering), Immich (self-hosted photos), internal documentation portal via Docker
+
+---
+
+## 🔐 Security & Offensive Tools (TryHackMe / Labs)
+
+- **[Linux Fundamentals](https://github.com/Fabiany-cs/Linux-Fundamentals)**
+- **[Splunk: Exploring SPL](https://github.com/Fabiany-cs/Splunk-Exploring-SPL)** · **[Splunk CTF / PS Eclipse](https://github.com/Fabiany-cs/Splunk-CTF-PS-Eclipse)**
+- **[OpenVPN / SSH](https://github.com/Fabiany-cs/OpenVPN-SSH)** · **[Hydra](https://github.com/Fabiany-cs/Hydra)** · **[Aircrack-ng](https://github.com/Fabiany-cs/Aircrack-ng-Suite)** · **[SQLMap](https://github.com/Fabiany-cs/SQLMAP)**
+
+---
+
+## 💲 PowerShell
+
+- **[Creating Users in Active Directory](https://github.com/Fabiany-cs/Active-Directory-DC-Deployment/blob/main/1_CREATE_USERS.ps1)**
+- *(More scripts being added as I build toward AZ-104)*
+
+---
+
+## 🐍 Python
+
+- **[Nmap Port Scanner](https://github.com/Fabiany-cs/Port-Scanner)**
+- **[Password Manager](https://github.com/Fabiany-cs/Password-Manager)**
+- **[Random Password Generator](https://github.com/Fabiany-cs/Random-Password-Generator)**
+- **[Harvard CS50P](https://github.com/Fabiany-cs/Harvard-CS50P)**
+
+---
+
+## 📚 Certifications
+
+| Issuer | Certification |
+|--------|--------------|
+| CompTIA | Security+ · CySA+ · Network+ · Pentest+ · A+ · Project+ |
+| ISC2 | SSCP (Systems Security Certified Practitioner) |
+| ITIL | v4 Foundation |
+| In Progress | AZ-104 Microsoft Azure Administrator |
