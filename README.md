@@ -45,6 +45,3 @@
 -  <b><a href="https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/">ITILv4 Foundation</a></b>
 -  <b><a href="https://www.coursera.org/professional-certificates/google-it-support">Google IT Support Professional</a></b>
 -  <b><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional</a></b>
-
-### Coming Soon Certifications
--  <b><a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=tile&tile=getstarted">AWS Solutions Architect</a></b>
