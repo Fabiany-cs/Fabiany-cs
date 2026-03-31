@@ -19,7 +19,7 @@ Currently building toward cloud security roles with a focus on Microsoft Azure (
 
 ## ☁️ Cloud & Infrastructure Projects
 
-- **[Azure VM Honeypot + Azure Sentinel SIEM](https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md)** — Deployed a deliberately exposed Azure VM to capture real-world attack data, integrated with Azure Sentinel for log ingestion, alerting, and threat visualization
+- **[Azure VM Honeypot](https://github.com/Fabiany-cs/Azure-VM-Honeypot-Integrated-with-Azure-Sentinel-SIEM-/blob/main/README.md)** — Deployed a deliberately exposed Azure VM to capture real-world attack data, integrated with Azure Sentinel for log ingestion, alerting, and threat visualization
 - **[EDR Monitoring with Wazuh (XDR)](https://github.com/Fabiany-cs/Wazuh)** — Self-hosted Wazuh deployment for endpoint detection, HIDS alerting, and security event correlation
 - **[Active Directory DC Deployment](https://github.com/Fabiany-cs/Active-Directory-DC-Deployment)** — Full AD domain deployment with automated user provisioning via PowerShell
 
